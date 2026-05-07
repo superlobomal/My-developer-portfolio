@@ -1,8 +1,11 @@
 # My Developer Portfolio
 
-Portafolio personal con una landing sencilla en HTML y assets locales.
+Portafolio personal en HTML con recursos locales.
 
-## Contenido
+## Vista previa
+![Preview](assets/eym-preview.jpeg)
+
+## Estructura
 - index.html: pagina principal
 - assets/: imagenes y recursos
 
@@ -13,5 +16,10 @@ Portafolio personal con una landing sencilla en HTML y assets locales.
 - HTML
 - CSS (incluido en el HTML)
 
+## Despliegue rapido en GitHub Pages
+1. Ve a Settings -> Pages.
+2. En "Build and deployment", elige Branch: `main` y carpeta: `/ (root)`.
+3. Guarda y espera a que aparezca la URL del sitio.
+
 ## Notas
-Si necesitas despliegue, puedo ayudarte a publicarlo en GitHub Pages.
+Si quieres una version multi-seccion, animaciones o seccion de proyectos, puedo ayudarte a mejorarla.
